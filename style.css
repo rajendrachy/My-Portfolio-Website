@@ -105,6 +105,9 @@ margin: 10px 0;
 
 .divpic img {
     height: 58vh;
+    width: 500px;
+    border-radius: 90px;
+    /* //border: 2px dotted black; */
    
 }
 
