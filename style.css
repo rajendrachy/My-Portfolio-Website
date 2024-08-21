@@ -272,3 +272,12 @@ font-family: monospace;
 } 
 
 
+@media only screen and (max-width: 767px) and (orientation: portrait), 
+       only screen and (max-width: 1024px) and (orientation: landscape) {
+    
+    .divpic {
+        height: 10vh;
+        width: 70px;
+        margin-right: 20px;
+    }
+}
