@@ -258,9 +258,9 @@ font-family: monospace;
     font-size: 10px;
    }
 
-   .divpic {
+   /* .divpic {
     display: none;
-   }
+   } */
 
 .intro, .blogcontainer, .contactform {
     margin:50px 8px;
