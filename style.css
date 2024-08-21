@@ -262,8 +262,8 @@ font-family: monospace;
 
     .divpic {
     /* display: none; */
-    height: 15vh;
-    width: 100px;
+    height: 6vh;
+    width: 80px;
     margin-right: 100px;
    } 
  .intro, .blogcontainer, .contactform {
@@ -276,8 +276,8 @@ font-family: monospace;
        only screen and (max-width: 1024px) and (orientation: landscape) {
     
     .divpic {
-        height: 10vh;
-        width: 70px;
-        margin-right: 20px;
+        height: 6vh;
+        width: 60px;
+        margin-right: 10px;
     }
 }
